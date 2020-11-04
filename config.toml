@@ -1,0 +1,4 @@
+baseURL = "http://relogio/ie-cp2020/"
+languageCode = "pt-br"
+title = "PROJETO RELÓGIO LCD SEM RTC"
+theme = "ananke"
